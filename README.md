@@ -18,7 +18,7 @@
     </td>
     <!-- Right Side: GIF -->
     <td width="25%" align="center" valign="middle" style="border: none;">
-      <img src="./maksud%20got%20mad.gif" width="220" alt="Coder GIF">
+      <img src="./Maksud%20got%20mad.gif" width="220" alt="Coder GIF">
     </td>
   </tr>
 </table>
