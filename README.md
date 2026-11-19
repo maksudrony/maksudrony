@@ -4,9 +4,9 @@
 
 # 💫 Hi 👋, I'm Maksud Alam
 
-### <img src="./readme_gifs/rocket.gif" width="25" height="20" alt="Developer GIF" /> Full Stack Software Developer | React.js | .NET | Oracle
+### <img src="./readme_gifs/rocket.gif" width="35" height="20" alt="Developer GIF" /> Full Stack Software Developer | React.js | .NET | Oracle
 
-<img src="./readme_gifs/mail.gif" width="35" height="40" alt="Developer GIF" /> Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
+<img src="./readme_gifs/mail.gif" width="35" height="20" alt="Developer GIF" /> Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="200" alt="Penguin" />
 
