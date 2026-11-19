@@ -1,11 +1,10 @@
-<h1>💫 Hi 👋, I'm Maksud Alam</h1>
-
-<h3>🚀 Full Stack Software Developer | React.js | .NET | Oracle</h3>
-
 <table>
   <tr>
-    <td valign="center">
-      <p>📧 Email 👉 <a href="mailto:maksudrony44@gmail.com"><b>maksudrony44@gmail.com</b></a> for Collaboration, Projects or Professional Opportunities.</p>
+    <!-- Left Side: About Me -->
+    <td width="75%" valign="middle" style="border: none;">
+      <h1>💫 Hi 👋, I'm Maksud Alam</h1>
+      <h3>🚀 Full Stack Software Developer | React.js | .NET | Oracle</h3>
+      📧 Email 👉 <a href="mailto:maksudrony44@gmail.com"><b>maksudrony44@gmail.com</b></a>
       <ul>
         <li>🔭 <b>Currently working on:</b> Enterprise Applications & Dashboard Systems</li>
         <li>💼 <b>Working at:</b> Akij Group as a Software Developer</li>
@@ -17,12 +16,12 @@
         <li>⚡ <b>Fun fact:</b> Code, Coffee & Continuous Learning ☕💻</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="./Maksud%20got%20mad.gif" width="400" alt="Coding GIF">
+    <!-- Right Side: GIF -->
+    <td width="25%" align="center" valign="middle" style="border: none;">
+      <img src="./maksud%20got%20mad.gif" width="220" alt="Coder GIF">
     </td>
   </tr>
 </table>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.rony.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makrony) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maksudrony44@gmail.com) 
