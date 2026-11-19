@@ -1,24 +1,53 @@
-# 💫 About Me:
-I'm a Full Stack Software Developer with 4+ years of professional experience building enterprise-level web applications using React.js, .NET, and Oracle Database.<br><br>Currently working at Akij Group, where I develop and maintain business-critical applications<br> across Sales & Distribution, Production, Transport, and Accounts. My work involves building <br>responsive frontend interfaces, developing RESTful APIs, implementing authentication and <br>authorization, and optimizing database queries for performance and reliability.<br><br>I enjoy solving real-world business problems through clean, maintainable, and scalable software solutions.<br><br>- 💼 Software Developer at Akij Group<br>- 🌱 Focused on React.js, ASP.NET Core Web API, and Oracle Database<br>- 🏗️ Experienced in enterprise application development and dashboard systems<br>- 🔐 Interested in API security, authentication, authorization, and system architecture<br>- 📍 Based in Dhaka, Bangladesh
+<!-- Replace or update sections as your profile evolves. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Maksud Alam | Full-Stack Software Developer specializing in React, .NET and Oracle Database">
+  </picture>
+</p>
 
+<h1 align="center">Hi, I'm Maksud Alam 👋</h1>
+<p align="center">
+  <strong>Full-Stack Software Developer</strong><br>
+  React · .NET · Oracle Database
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.rony.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makrony) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maksudrony44@gmail.com) 
+## About
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maksudrony&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=maksudrony&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maksudrony&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Software Developer focused on building practical enterprise applications, API-driven systems, and data-rich dashboards.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maksudrony&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+- **Frontend:** React, JavaScript, Redux Toolkit
+- **Backend:** ASP.NET Core Web API, .NET
+- **Database:** Oracle Database, PL/SQL
+- **Current focus:** Full-stack application development, API design, authentication and authorization, dashboard/reporting systems
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## Featured Work
+
+### ABL Accounts Dashboard
+An enterprise dashboard application built with React, ASP.NET Core Web API, and Oracle Database. Includes authentication and role-based menu authorization, transport analytics, utilization dashboards, and paginated detail APIs.
+
+## Engineering Stack
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000">
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=fff">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=fff">
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=fff">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat&logo=oracle&logoColor=fff">
+  <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-Database-F80000?style=flat&logo=oracle&logoColor=fff">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff">
+</p>
+
+## Connect
+
+Add your verified profile links here:
+
+- GitHub: `https://github.com/your-username`
+- LinkedIn: `your-linkedin-url`
+- Portfolio: `your-portfolio-url`
 
 ---
-[![](https://komarev.com/ghpvc/?username=maksudrony&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>Always learning. Building. Improving.</i></p>
