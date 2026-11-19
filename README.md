@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+      <img src="./maksud%20got%20mad.gif" width="400" alt="Coding GIF">
     </td>
   </tr>
 </table>
