@@ -1,5 +1,16 @@
 # 💫 Hi 👋, I'm Maksud Alam
-### 🚀 Full Stack Software Developer | React.js | .NET | Oracle<br><br>📧 Email 👉 **[maksudrony44@gmail.com]** for Collaboration, Projects or Professional Opportunities.<br><br>- 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems<br>- 💼 **Working at:** Akij Group as a Software Developer<br>- 🌱 **Currently learning:** Advanced .NET, System Design & API Security<br>- 🧑‍💻 **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL<br>- 🤝 **Looking to collaborate on:** Web Applications & Open Source Projects<br>- 💬 **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development<br>- 🎯 **Career Goal:** Building scalable, secure & high-performance software<br>- ⚡ **Fun fact:** Code, Coffee & Continuous Learning ☕💻<br>
+**🚀 Full Stack Software Developer | React.js | .NET | Oracle**
+
+📧 Email 👉 **[maksudrony44@gmail.com]** for Collaboration, Projects or Professional Opportunities.
+
+- 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems
+- 💼 **Working at:** Akij Group as a Software Developer
+- 🌱 **Currently learning:** Advanced .NET, System Design & API Security
+- 🧑‍💻 **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
+- 🤝 **Looking to collaborate on:** Web Applications & Open Source Projects
+- 💬 **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
+- 🎯 **Career Goal:** Building scalable, secure & high-performance software
+- ⚡ **Fun fact:** Code, Coffee & Continuous Learning ☕💻
 
 
 ## 🌐 Socials:
