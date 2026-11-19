@@ -1,6 +1,7 @@
 <p align="left">   
   <img src="./Maksud%20got%20mad.gif" width="230" alt="Coding Animation"> 
 </p>
+
 # 💫 Hi 👋, I'm Maksud Alam
 
 ### 🚀 Full Stack Software Developer | React.js | .NET | Oracle
