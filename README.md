@@ -2,7 +2,7 @@
   <img src="./Maksud%20got%20mad.gif" width="230" alt="Coding Animation"> 
 </p>
 
-# 💫 Hi 👋, I'm Maksud Alam
+# <img src="./readme_gifs/star.gif" width="35" height="30" alt="Developer GIF" /> Hi <img src="./readme_gifs/hello.gif" width="35" height="30" alt="Developer GIF" />, I'm Maksud Alam
 
 ### <img src="./readme_gifs/rocket.gif" width="35" height="30" alt="Developer GIF" /> Full Stack Software Developer | React.js | .NET | Oracle
 
