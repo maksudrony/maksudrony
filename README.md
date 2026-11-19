@@ -1,12 +1,11 @@
+<p align="left">   
+  <img src="./Maksud%20got%20mad.gif" width="230" alt="Coding Animation"> 
+</p>
 # 💫 Hi 👋, I'm Maksud Alam
 
 ### 🚀 Full Stack Software Developer | React.js | .NET | Oracle
 
 📧 Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
-
-<p align="left">
-  <img src="./Maksud%20got%20mad.gif" width="280" alt="Coder GIF">
-</p>
 
 * 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems
 * 💼 **Working at:** Akij Group as a Software Developer
