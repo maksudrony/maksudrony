@@ -1,10 +1,14 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <!-- Left Side: About Me -->
-    <td width="75%" valign="middle" style="border: none;">
+    <td width="78%" valign="middle" style="border: none !important;">
       <h1>💫 Hi 👋, I'm Maksud Alam</h1>
       <h3>🚀 Full Stack Software Developer | React.js | .NET | Oracle</h3>
-      📧 Email 👉 <a href="mailto:maksudrony44@gmail.com"><b>maksudrony44@gmail.com</b></a>
+      <p>
+        📧 Email 👉
+        <a href="mailto:maksudrony44@gmail.com"><b>maksudrony44@gmail.com</b></a>
+        for Collaboration, Projects or Professional Opportunities.
+      </p>
+      <br>
       <ul>
         <li>🔭 <b>Currently working on:</b> Enterprise Applications & Dashboard Systems</li>
         <li>💼 <b>Working at:</b> Akij Group as a Software Developer</li>
@@ -16,9 +20,8 @@
         <li>⚡ <b>Fun fact:</b> Code, Coffee & Continuous Learning ☕💻</li>
       </ul>
     </td>
-    <!-- Right Side: GIF -->
-    <td width="25%" align="center" valign="middle" style="border: none;">
-      <img src="./Maksud%20got%20mad.gif" width="220" alt="Coder GIF">
+    <td width="22%" align="center" valign="middle" style="border: none !important;">
+      <img src="./maksud%20got%20mad.gif" width="180" alt="Coder GIF">
     </td>
   </tr>
 </table>
