@@ -1,30 +1,21 @@
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="78%" valign="middle" style="border: none !important;">
-      <h1>💫 Hi 👋, I'm Maksud Alam</h1>
-      <h3>🚀 Full Stack Software Developer | React.js | .NET | Oracle</h3>
-      <p>
-        📧 Email 👉
-        <a href="mailto:maksudrony44@gmail.com"><b>maksudrony44@gmail.com</b></a>
-        for Collaboration, Projects or Professional Opportunities.
-      </p>
-      <br>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> Enterprise Applications & Dashboard Systems</li>
-        <li>💼 <b>Working at:</b> Akij Group as a Software Developer</li>
-        <li>🌱 <b>Currently exploring:</b> Cloud Technologies, DevOps & CI/CD</li>
-        <li>🧑‍💻 <b>Tech Stack:</b> React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL</li>
-        <li>🤝 <b>Looking to collaborate on:</b> Web Applications & Open Source Projects</li>
-        <li>💬 <b>Ask me about:</b> React, .NET Web API, Oracle Database & Full Stack Development</li>
-        <li>🎯 <b>Career Goal:</b> Building scalable, secure & high-performance software</li>
-        <li>⚡ <b>Fun fact:</b> Code, Coffee & Continuous Learning ☕💻</li>
-      </ul>
-    </td>
-    <td width="22%" align="center" valign="middle" style="border: none !important;">
-      <img src="./Maksud%20got%20mad.gif" width="180" alt="Coder GIF">
-    </td>
-  </tr>
-</table>
+# 💫 Hi 👋, I'm Maksud Alam
+
+### 🚀 Full Stack Software Developer | React.js | .NET | Oracle
+
+📧 Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
+
+<p align="left">
+  <img src="./Maksud%20got%20mad.gif" width="280" alt="Coder GIF">
+</p>
+
+* 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems
+* 💼 **Working at:** Akij Group as a Software Developer
+* 🌱 **Currently exploring:** Cloud Technologies, DevOps & CI/CD
+* 🧑‍💻 **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
+* 🤝 **Looking to collaborate on:** Web Applications & Open Source Projects
+* 💬 **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
+* 🎯 **Career Goal:** Building scalable, secure & high-performance software
+* ⚡ **Fun fact:** Code, Coffee & Continuous Learning ☕💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.rony.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makrony) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maksudrony44@gmail.com) 
