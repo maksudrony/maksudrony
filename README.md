@@ -31,9 +31,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=maksudrony&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=maksudrony&theme=dracula&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=maksudrony&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="140" src="https://github-readme-stats.shion.dev/api?username=maksudrony&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=maksudrony&theme=dracula&hide_border=false" />
+  <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=maksudrony&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
