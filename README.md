@@ -12,7 +12,7 @@
 
 - <img src="./readme_gifs/developer.gif" width="25" height="20" alt="Developer GIF" /> **Currently working on:** Enterprise Applications & Dashboard Systems
 - <img src="./readme_gifs/working.gif" width="25" height="20" alt="Developer GIF" /> **Working at:** Akij Insaf Group as a Software Developer
-- <img src="./readme_gifs/explore.gif" width="25" height="20" alt="Developer GIF" /> **Currently exploring:** Cloud Technologies, DevOps & CI/CD
+- <img src="./readme_gifs/explore.gif" width="25" height="20" alt="Developer GIF" /> **Currently exploring:** Advanced .NET, Software Architecture, API Security & System Design
 - <img src="./readme_gifs/tech.gif" width="25" height="20" alt="Developer GIF" /> **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
 - <img src="./readme_gifs/Collaborate.gif" width="25" height="20" alt="Developer GIF" /> **Looking to collaborate on:** Web Applications & Open Source Projects
 - <img src="./readme_gifs/ask_me.gif" width="25" height="20" alt="Developer GIF" /> **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
