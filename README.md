@@ -4,20 +4,20 @@
 
 # 💫 Hi 👋, I'm Maksud Alam
 
-### 🚀 Full Stack Software Developer | React.js | .NET | Oracle
+### <img src="./readme_gifs/rocket.gif" width="25" height="20" alt="Developer GIF" /> Full Stack Software Developer | React.js | .NET | Oracle
 
 📧 Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="200" alt="Penguin" />
 
-- <img src="./readme_gifs/developer.gif" width="25" alt="Developer GIF" /> **Currently working on:** Enterprise Applications & Dashboard Systems
-- <img src="./readme_gifs/working.gif" width="25" alt="Developer GIF" /> **Working at:** Akij Insaf Group as a Software Developer
-- <img src="./readme_gifs/explore.gif" width="25" alt="Developer GIF" /> **Currently exploring:** Cloud Technologies, DevOps & CI/CD
-- <img src="./readme_gifs/tech.gif" width="25" alt="Developer GIF" /> **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
-- <img src="./readme_gifs/Collaborate.gif" width="25" alt="Developer GIF" /> **Looking to collaborate on:** Web Applications & Open Source Projects
-- <img src="./readme_gifs/ask_me.gif" width="25" alt="Developer GIF" /> **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
-- <img src="./readme_gifs/career_goal.gif" width="25" alt="Developer GIF" /> **Career Goal:** Building scalable, secure & high-performance software
-- <img src="./readme_gifs/fun_fact.gif" width="25" alt="Developer GIF" /> **Fun fact:** Code, Coffee & Continuous Learning ☕💻
+- <img src="./readme_gifs/developer.gif" width="25" height="20" alt="Developer GIF" /> **Currently working on:** Enterprise Applications & Dashboard Systems
+- <img src="./readme_gifs/working.gif" width="25" height="20" alt="Developer GIF" /> **Working at:** Akij Insaf Group as a Software Developer
+- <img src="./readme_gifs/explore.gif" width="25" height="20" alt="Developer GIF" /> **Currently exploring:** Cloud Technologies, DevOps & CI/CD
+- <img src="./readme_gifs/tech.gif" width="25" height="20" alt="Developer GIF" /> **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
+- <img src="./readme_gifs/Collaborate.gif" width="25" height="20" alt="Developer GIF" /> **Looking to collaborate on:** Web Applications & Open Source Projects
+- <img src="./readme_gifs/ask_me.gif" width="25" height="20" alt="Developer GIF" /> **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
+- <img src="./readme_gifs/career_goal.gif" width="25" height="20" alt="Developer GIF" /> **Career Goal:** Building scalable, secure & high-performance software
+- <img src="./readme_gifs/fun_fact.gif" width="25" height="20" alt="Developer GIF" /> **Fun fact:** Code, Coffee & Continuous Learning ☕💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.rony.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makrony) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maksudrony44@gmail.com) 
