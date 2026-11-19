@@ -8,14 +8,16 @@
 
 📧 Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
 
-* 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems
-* 💼 **Working at:** Akij Group as a Software Developer
-* 🌱 **Currently exploring:** Cloud Technologies, DevOps & CI/CD
-* 🧑‍💻 **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
-* 🤝 **Looking to collaborate on:** Web Applications & Open Source Projects
-* 💬 **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
-* 🎯 **Career Goal:** Building scalable, secure & high-performance software
-* ⚡ **Fun fact:** Code, Coffee & Continuous Learning ☕💻
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="200" alt="Penguin" />
+
+- 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems
+- 💼 **Working at:** Akij Insaf Group as a Software Developer
+- 🌱 **Currently exploring:** Cloud Technologies, DevOps & CI/CD
+- 🧑‍💻 **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
+- 🤝 **Looking to collaborate on:** Web Applications & Open Source Projects
+- 💬 **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
+- 🎯 **Career Goal:** Building scalable, secure & high-performance software
+- ⚡ **Fun fact:** Code, Coffee & Continuous Learning ☕💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.rony.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makrony) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maksudrony44@gmail.com) 
