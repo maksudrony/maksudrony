@@ -18,7 +18,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="./maksud%20got%20mad.gif" width="400" alt="Coding GIF">
+      <img src="./Maksud%20got%20mad.gif" width="400" alt="Coding GIF">
     </td>
   </tr>
 </table>
