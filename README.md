@@ -1,16 +1,27 @@
-# 💫 Hi 👋, I'm Maksud Alam
-**🚀 Full Stack Software Developer | React.js | .NET | Oracle**
+<h1>💫 Hi 👋, I'm Maksud Alam</h1>
 
-📧 Email 👉 **[maksudrony44@gmail.com]** for Collaboration, Projects or Professional Opportunities.
+<h3>🚀 Full Stack Software Developer | React.js | .NET | Oracle</h3>
 
-- 🔭 **Currently working on:** Enterprise Applications & Dashboard Systems
-- 💼 **Working at:** Akij Group as a Software Developer
-- 🌱 **Currently learning:** Advanced .NET, System Design & API Security
-- 🧑‍💻 **Tech Stack:** React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL
-- 🤝 **Looking to collaborate on:** Web Applications & Open Source Projects
-- 💬 **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
-- 🎯 **Career Goal:** Building scalable, secure & high-performance software
-- ⚡ **Fun fact:** Code, Coffee & Continuous Learning ☕💻
+<table>
+  <tr>
+    <td valign="center">
+      <p>📧 Email 👉 <a href="mailto:maksudrony44@gmail.com"><b>maksudrony44@gmail.com</b></a> for Collaboration, Projects or Professional Opportunities.</p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Enterprise Applications & Dashboard Systems</li>
+        <li>💼 <b>Working at:</b> Akij Group as a Software Developer</li>
+        <li>🌱 <b>Currently exploring:</b> Cloud Technologies, DevOps & CI/CD</li>
+        <li>🧑‍💻 <b>Tech Stack:</b> React.js, JavaScript, C#, ASP.NET Core, Oracle SQL & PL/SQL</li>
+        <li>🤝 <b>Looking to collaborate on:</b> Web Applications & Open Source Projects</li>
+        <li>💬 <b>Ask me about:</b> React, .NET Web API, Oracle Database & Full Stack Development</li>
+        <li>🎯 <b>Career Goal:</b> Building scalable, secure & high-performance software</li>
+        <li>⚡ <b>Fun fact:</b> Code, Coffee & Continuous Learning ☕💻</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
