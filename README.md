@@ -8,7 +8,7 @@
 
 <img src="./readme_gifs/mail.gif" width="35" height="30" alt="Developer GIF" /> Email 👉 **[maksudrony44@gmail.com](mailto:maksudrony44@gmail.com)** for Collaboration, Projects or Professional Opportunities.
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="200" alt="Penguin" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="180" alt="Penguin" />
 
 - <img src="./readme_gifs/developer.gif" width="25" height="20" alt="Developer GIF" /> **Currently working on:** Enterprise Applications & Dashboard Systems
 - <img src="./readme_gifs/working.gif" width="25" height="20" alt="Developer GIF" /> **Working at:** Akij Insaf Group as a Software Developer
