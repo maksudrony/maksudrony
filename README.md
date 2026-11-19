@@ -17,7 +17,7 @@
 - <img src="./readme_gifs/Collaborate.gif" width="25" height="20" alt="Developer GIF" /> **Looking to collaborate on:** Web Applications & Open Source Projects
 - <img src="./readme_gifs/ask_me.gif" width="25" height="20" alt="Developer GIF" /> **Ask me about:** React, .NET Web API, Oracle Database & Full Stack Development
 - <img src="./readme_gifs/career_goal.gif" width="25" height="20" alt="Developer GIF" /> **Career Goal:** Building scalable, secure & high-performance software
-- <img src="./readme_gifs/fun_fact.gif" width="25" height="20" alt="Developer GIF" /> **Fun fact:** Code, Coffee & Continuous Learning ☕💻
+- <img src="./readme_gifs/fun_fact.gif" width="25" height="20" alt="Developer GIF" /> **Fun fact:** Code, Coffee & Continuous Learning <img src="./readme_gifs/coffee.gif" width="25" height="20" alt="Developer GIF" />
 
 ## <img src="./readme_gifs/socials.gif" width="35" height="30" alt="Developer GIF" /> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maksud.rony.92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makrony) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maksudrony44@gmail.com) 
